@@ -6,7 +6,7 @@ This project provides Terraform configurations to deploy an EC2 instance in AWS 
 
 The infrastructure provisions the following resources:
 
-![AWS Infrastructure Diagram](https://assets/design.jpg)
+![AWS Infrastructure Diagram](https://github.com/clarizalooktech/setup-ec2-with-terraform/blob/main/assets/design.jpg)
 
 *Note: The image above is a visual representation of the infrastructure this Terraform code creates.*
 
